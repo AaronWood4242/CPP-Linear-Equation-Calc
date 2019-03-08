@@ -1,9 +1,5 @@
 //----------------------------------------------------------
-//  Name: Aaron Wood
-//  E-mail Address: naw5233@psu.edu
-//  Class: CMPSC 121 003
-//  HW 9
-//  Due Date: 4/25/18
+//  Aaron Wood
 //  a program for creating basic 2 x 2 linear equations
 //----------------------------------------------------------
 
